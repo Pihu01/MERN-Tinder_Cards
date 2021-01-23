@@ -1,2 +1,4 @@
 # MERN-Tinder_Cards
-Created with CodeSandbox
+This Project Created by using ReactJS NOdeJS ExpressJS MongoDB and MaterialUI
+Backend Deployed on Heroku
+Frontend Deployed on Firebase
